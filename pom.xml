@@ -8,6 +8,7 @@
     <modules>
         <module>ClassOne</module>
         <module>ClassTwo</module>
+        <module>BrokenClass</module>
     </modules>
     
     <profiles>
